@@ -6,8 +6,10 @@
   - [ ] Zjednodušenní funkcí, Objektově Orientované Pole
   - [ ] Rozšíření funkcí a constant na více souborů
   - [x] Úprava Backend Socket.io systému - [@KRBNJSF](https://github.com/KRBNJSF)
-  - [x] Příprava dokumentace a následně její prezentace - [@JakubNovotnyBi](https://github.com/JakubNovotnyBi)
+  - [x] Příprava dokumentace/prezentace a následně jejich prezentace - [@JakubNovotnyBi](https://github.com/JakubNovotnyBi), [@Chr1st1ancz](https://github.com/Chr1st1ancz)
   - [ ] UI elementy, úprava pro rezponzivitu CSS
+  - [x] Popis kořenového vlákna, jak co funguje, využití pro Fairness - [@Michal1218](https://github.com/Michal1218)
+  - [x] Kontakt sekce - [@Michal1218](https://github.com/Michal1218) (pošlu template)
   - [x] Upload na WEB, jak Backend tak Frontend - [@KRBNJSF](https://github.com/KRBNJSF)
   - [ ] Přeměna Frontendu do Reactu
   - [x] Databázový systém, login/register - [@JakubNovotnyBi](https://github.com/JakubNovotnyBi)
