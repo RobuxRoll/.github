@@ -7,6 +7,7 @@
   - [ ] Rozšíření funkcí a constant na více souborů
   - [x] Úprava Backend Socket.io systému - [@KRBNJSF](https://github.com/KRBNJSF)
   - [x] Příprava dokumentace/prezentace a následně jejich prezentace - [@JakubNovotnyBi](https://github.com/JakubNovotnyBi), [@Chr1st1ancz](https://github.com/Chr1st1ancz)
+  - [x] Frontend - [@neostetic](https://github.com/neostetic)
   - [x] UI elementy, úprava pro rezponzivitu CSS - [@neostetic](https://github.com/neostetic)
   - [x] Popis kořenového vlákna, jak co funguje, využití pro Fairness - [@Michal1218](https://github.com/Michal1218)
   - [x] Kontakt sekce - [@Michal1218](https://github.com/Michal1218) (pošlu template)
