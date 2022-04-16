@@ -19,7 +19,8 @@
 - **RobuxRoll** se bude přejemnovávat na **RollOrbit**
 - Popřípadné dotazy prosím dotázat se na [Discord](https://discord.gg/7Jy2vXSn) @neostetic#5391
 
-<p align="right">
-  <br>
-  <img height="100px" src="https://user-images.githubusercontent.com/83291717/163668671-dd954758-752e-4f0c-aa59-8e8d919fa47e.png"/>
-</p>
+
+![image](https://user-images.githubusercontent.com/83291717/163668752-63f2abd8-76ab-494a-bba8-42d03c795ce6.png)
+<!--
+![image](https://user-images.githubusercontent.com/83291717/163668780-b177e17d-4919-4340-a4ac-7c77102df303.png)
+-->
