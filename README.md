@@ -3,7 +3,7 @@
 - Včera bylo na náš web přidaná nová hra
 - [@KRBNJSF](https://github.com/KRBNJSF) - obnovit Heroku
 - Prosím o bug testování (testovací účet: TestAccount:test123456789)
-- **Heroku není momentálně k dispozici ([@herokustatus](https://twitter.com/herokustatus))** - deploy nové verze se spoždí
+- **Heroku není momentálně k dispozici ([@herokustatus](https://twitter.com/herokustatus))** - deploy nové verze se zpoždí
 #### 16.4.2022 - Nové Issues
 - Prosím, přečtěte si [#11](https://github.com/RobuxRoll/casino-dev/issues/11), [#12](https://github.com/RobuxRoll/casino-dev/issues/12), navrhněte možný jiný fix nebo nápad do Issues
 #### 10.4.2022 - Školní WAP Projekt (update 12.4.2022)
