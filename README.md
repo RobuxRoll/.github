@@ -1,4 +1,7 @@
 ### RobuxRoll Annoucments (RollOrbit) 
+#### 25.04.2022 - Blackjack instrukce
+- Blackjack *možná* potřebuje lepší UI, personifikace webu
+- Nápady piště do [issues](https://github.com/RobuxRoll/casino-dev/issues)
 #### 20.4.2022 - Implementace Blackjack [#13](https://github.com/RobuxRoll/casino-dev/issues/13) (update 20.4.2022)
 - Včera bylo na náš web přidaná nová hra
 - [@KRBNJSF](https://github.com/KRBNJSF) - obnovit Heroku
