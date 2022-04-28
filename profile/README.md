@@ -3,6 +3,7 @@
 - Jelikož stránka **Heroku.com** neopravila problémy s Git Requesty a naopak jenom pohoršila situaci, web se posouvá na [glitch.com](https://tasteful-terrific-pedestrian.glitch.me/)
 - Enviroments potřebuje fix
 - Blackjack backend potřebuje fix [#15](https://github.com/RobuxRoll/casino-dev/issues/15)
+- **REOPEN:** Redesign Blackjacku
 #### 25.04.2022 - Blackjack instrukce (update 25.4.2022)
 - ~~Blackjack *možná* potřebuje lepší UI, personifikace webu~~
 - Nápady piště do [issues](https://github.com/RobuxRoll/casino-dev/issues)
