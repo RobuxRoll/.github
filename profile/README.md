@@ -1,4 +1,18 @@
 ### RobuxRoll Annoucments (RollOrbit)
+#### 01.05.2022 - Menší redesign & Web Hosting
+<details>
+  <summary>Klikni pro ukázku</summary>
+  <br>
+  
+![image](https://user-images.githubusercontent.com/83291717/166136666-52655502-ccbb-459e-baa3-697afd037773.png)
+  
+</details>
+
+- Stránka byla několikrát přesunuta, možná ještě bude (web hosting se přesouvá na [glitch.com](https://jealous-enshrined-cilantro.glitch.me))
+- Rozhodněte se zda redesign vyhovuje, popřípadně bugy spát do [issues](https://github.com/RobuxRoll/casino-dev/issues)
+- Fix [#15](https://github.com/RobuxRoll/casino-dev/issues/15) hotvový
+- Potřeba dodělat Databáze přes **MongoDB**
+
 #### 28.04.2022 - HerokuApp Status Update (update 01.05.2022)
 - Jelikož stránka **Heroku.com** neopravila problémy s Git Requesty a naopak jenom pohoršila situaci, web se posouvá na ~~[glitch.com](https://tasteful-terrific-pedestrian.glitch.me/)~~ [glitch.com](https://jealous-enshrined-cilantro.glitch.me)
 - Enviroments potřebuje fix
@@ -7,7 +21,7 @@
 #### 25.04.2022 - Blackjack instrukce (update 25.4.2022)
 - ~~Blackjack *možná* potřebuje lepší UI, personifikace webu~~
 - Nápady piště do [issues](https://github.com/RobuxRoll/casino-dev/issues)
-- Hotová prezentace - [WIP](https://github.com/RobuxRoll/RobuxRoll)
+- Hotová prezentace - [WIP](https://github.com/RobuxRoll/)
 #### 20.4.2022 - Implementace Blackjack [#13](https://github.com/RobuxRoll/casino-dev/issues/13) (update 20.4.2022)
 - Včera bylo na náš web přidaná nová hra
 - [@KRBNJSF](https://github.com/KRBNJSF) - obnovit Heroku
