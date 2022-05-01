@@ -1,6 +1,6 @@
 ### RobuxRoll Annoucments (RollOrbit)
-#### 28.04.2022 - HerokuApp Status Update (update 28.04.2022)
-- Jelikož stránka **Heroku.com** neopravila problémy s Git Requesty a naopak jenom pohoršila situaci, web se posouvá na [glitch.com](https://tasteful-terrific-pedestrian.glitch.me/)
+#### 28.04.2022 - HerokuApp Status Update (update 01.05.2022)
+- Jelikož stránka **Heroku.com** neopravila problémy s Git Requesty a naopak jenom pohoršila situaci, web se posouvá na ~~[glitch.com](https://tasteful-terrific-pedestrian.glitch.me/)~~ [glitch.com](https://jealous-enshrined-cilantro.glitch.me)
 - Enviroments potřebuje fix
 - Blackjack backend potřebuje fix [#15](https://github.com/RobuxRoll/casino-dev/issues/15)
 - **REOPEN:** Redesign Blackjacku
