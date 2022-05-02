@@ -21,10 +21,11 @@
 - Enviroments potřebuje fix
 - Blackjack backend potřebuje fix [#15](https://github.com/RobuxRoll/casino-dev/issues/15)
 - **REOPEN:** Redesign Blackjacku
-#### 25.04.2022 - Blackjack instrukce (update 01.05.2022)
+#### 25.04.2022 - Blackjack instrukce & Dokumentace (update 02.05.2022)
 - ~~Blackjack *možná* potřebuje lepší UI, personifikace webu~~
 - Nápady piště do [issues](https://github.com/RobuxRoll/casino-dev/issues)
 - Hotová prezentace - [Prezentace](https://github.com/RobuxRoll/.github/blob/main/RobuxRoll%20-%20prezentace%20-%20final.pptx) ([download](https://github.com/RobuxRoll/.github/blob/main/RobuxRoll%20-%20prezentace%20-%20final.pptx?raw=true))
+- Hotová příručka - [Příručka](https://github.com/RobuxRoll/.github/blob/main/Navod_k_webu_ROLLORBIT.docx) ([download](https://github.com/RobuxRoll/.github/blob/main/Navod_k_webu_ROLLORBIT.docx?raw=true))
 #### 20.4.2022 - Implementace Blackjack [#13](https://github.com/RobuxRoll/casino-dev/issues/13) (update 20.4.2022)
 - Včera bylo na náš web přidaná nová hra
 - [@KRBNJSF](https://github.com/KRBNJSF) - obnovit Heroku
