@@ -1,4 +1,7 @@
 ### RobuxRoll Annoucments (RollOrbit)
+#### 02.05.2022 - Responzivní URL & Databáze
+- Na GitHubu týmu byl vytvořen repositář [r/RobuxRoll.github.io](https://github.com/RobuxRoll/RobuxRoll.github.io) pro dynamickou URL [https://robuxroll.github.io](https://robuxroll.github.io), která usnadňuje URL bez odpovědnosti z venčí na změnu nového hostingu
+- Issue [#4](https://github.com/RobuxRoll/casino-dev/issues/4) - databáze si přebírá na starost [@KRBNJSF](https://github.com/KRBNJSF)
 #### 01.05.2022 - Menší redesign & Web Hosting
 <details>
   <summary>Klikni pro ukázku</summary>
